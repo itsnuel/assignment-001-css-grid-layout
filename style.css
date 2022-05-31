@@ -9,11 +9,12 @@
     ;
     grid-gap: 5px;
     text-align: center;
+    float:left;
 }
 header{
     background-color: #FE8515;
     grid-area: header;
-    
+
 }
 #leftsidebar{
     background-color:#7FC242;
